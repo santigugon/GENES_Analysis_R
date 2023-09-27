@@ -1,0 +1,11 @@
+Quitar precios en el catalogo y agregar el boton de comprar
+
+Ver la forma de aumentar el tamaño de la imagen y el zoom en los productos
+Agregar fondo gris al cristal
+
+Arreglar aleta cortada
+Agregar vinculo entre
+Presentar opciones de pago
+
+Modificar animacion de la catalogo
+Agregar en cada producto el hacer click para hacerte distribuidor
